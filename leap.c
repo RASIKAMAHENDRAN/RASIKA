@@ -1,7 +1,7 @@
 # include<stdio.h>
 void main()
 {
-longint  n;
+long int  n;
 scanf("%ld",&n);
 if(n%4==0)
 {
